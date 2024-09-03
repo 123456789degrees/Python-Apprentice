@@ -16,7 +16,21 @@ tina = turtle.Turtle()                  # Create a turtle named tina
 # Use tina.forward() and tina.left() to draw a pentagon
 # Make each side of the pentagon a different color with 
 # tina.pencolor()
-
+tina.pencolor("red")
+tina.forward(50)
+tina.left(72)
+tina.pencolor("blue")
+tina.forward(50)
+tina.left(72)
+tina.pencolor("green")
+tina.forward(50)
+tina.left(72)
+tina.pencolor("yellow")
+tina.forward(50)
+tina.left(72)
+tina.pencolor("purple")
+tina.forward(50)
+tina.left(72)
 
 ... # Your code here
 
